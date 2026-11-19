@@ -1,6 +1,6 @@
-# Proyecto 1: Mi Agenda de Películas
+# Proyecto 1:  Agenda de Películas
 
-**Materia:** Diseño de Informática 1  
+**Materia:**  Informática 1  
 **Docente:** Joaquín Sánchez  
 
 ## Integrantes
